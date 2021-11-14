@@ -28,14 +28,14 @@ projects:
     projects:
     # - repo-name
 
- social_media:
+# social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-    hackerrank: https://www.hackerrank.com/rithulr
+  # hackerrank: https://www.hackerrank.com/rithulr
   # instagram: your_username
   # keybase: your_username
-    linkedin: Rithul R
+  #linkedin: Rithul R
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -51,8 +51,10 @@ topics:
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
-  - name: Web design
-
+  - name: Graphic  design
+    web_url: https://github.com/blender
+    image_url: https://avatars.githubusercontent.com/u/52924476?s=200&v=4
+     
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
